@@ -1,1 +1,2 @@
-window.alert("script von jeremy");
+//Julians Script übernommen, da sonst nicht kompatibel.
+window.alert("Hello World!");
